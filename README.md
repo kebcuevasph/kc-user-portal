@@ -1,7 +1,6 @@
 # KEBCO User Portal
 
-**KEBCO User Portal** is a WordPress plugin that provides a centralized and customizable dashboard for logged-in users—excluding administrators.
-Designed to serve as a landing page for user-specific tools and access, this plugin is modular and developer-friendly.
+**KEBCO User Portal** is a WordPress plugin that provides a centralized and customizable dashboard for logged-in users—excluding administrators. Designed to serve as a landing page for user-specific tools and access, this plugin is modular and developer-friendly.
 
 ## 🔧 Features
 
