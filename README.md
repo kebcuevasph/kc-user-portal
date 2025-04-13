@@ -34,5 +34,5 @@ kc-user-portal/
 
 ---
 
-🛠 Built with ❤️ by Keb Cuevas  
+🛠 Built with ❤️ by Keb Cuevas (@kebcuevas)  
 🔗 https://github.com/kebcuevasph/kc-user-portal
